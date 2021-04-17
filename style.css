@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    height: 100%;
+}
+
+header {
+    width: 70%;
+    background-color: inherit;
+    float: right;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+header h1 {
+    font-family: "Swis721 BlkCn BT";
+    font-size: 3em;
+    font-weight: 500;
+    margin-top: 1px;
+    margin-right: 120px;
+    margin-bottom: -20px;
+}
+
+header h1 em {
+    margin-left: 150px;
+}
+
+header h6 {
+    font-family: "Myriad Pro";
+}
+
+.base {
+    display: inline-flex;
+    justify-content: space-around;
+    margin-top: -10px;
+    margin-bottom: -50px;
+}
+
+.line {
+    width: 290px;
+    height: 10px;
+    margin-top: 25px;
+    margin-left: 5px;
+    background-color: #2b3a51;
+}
+
+.clr {
+    clear: both;
+}
+
+aside {
+    float: left;
+    background-color: #2b3a51;
+    margin: 0;
+    text-align: left;
+    width: 30%;
+    height: 950px;
+}
+
+.pic {
+    width: 65%;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+    background-image: url(../me3w.jpg);
+    background-size: cover;
+
+}
+
+aside h4 {
+    padding-left: 30px;
+    font-family: "Raleway";
+    text-decoration: underline;
+    color: white;
+}
+
+aside p {
+    color: white;
+    font-size: 10px;
+    padding-left: 30px;
+    margin-top: -10px;
+}
+
+.hob {
+    padding-left: 10px;
+}
+
+.hobbies {
+    float: left;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+section {
+    text-align: left;
+    padding-left: 210px;
+}
+
+section h4 {
+    position: relative;
+    font-family: "Raleway";
+    font-size: 13px;
+    text-decoration: underline;
+    
+}
+
+section p {
+    font-size: 9px;
+}
+
+.car {
+    margin-bottom: -8px;
+}
+
+.edu {
+    margin-right: 20px;
+    margin-top: -10px;
+    float: left;
+    padding-left: 40px;
+}
+
+.no {
+    margin-top: -10px;
+}
+
+nav {
+    margin-left: -20px;
+}
+
+.knowh4 {
+    margin-left: -20px;
+    margin-bottom: -1px;
+}
+
+ul {
+    width: 130px;
+}
+
+nav ul li {
+    display: inline;
+    font-size: 9px;
+    font-family: "Lato";
+    list-style-type: circle;
+}
+
+.kc {
+    margin-top: -10px;
+    margin-bottom: -5px;
+}
+
+.ps {
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+.wd {
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+.stats {
+    margin-right: 20px;
+    margin-top: -10px;
+    float: left;
+}
+
+.sk {
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
